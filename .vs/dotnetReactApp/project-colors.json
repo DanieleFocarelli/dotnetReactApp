@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7320e470-87c0-4807-9e49-82f16ae9efb2": {
+      "ProjectGuid": "7320e470-87c0-4807-9e49-82f16ae9efb2",
+      "DisplayName": "dotnetReactApp",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
